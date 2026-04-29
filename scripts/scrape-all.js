@@ -1,8 +1,8 @@
 const fs = require("node:fs");
 const path = require("node:path");
 
-const INPUT_PATH = path.join(process.cwd(), "urls.txt");
-const OUTPUT_DIR = path.join(process.cwd(), "output");
+const INPUT_PATH = path.join(process.cwd(), "input", "urls.txt");
+const OUTPUT_DIR = path.join(process.cwd(), "output", "brand-details");
 const OUTPUT_PATH = path.join(OUTPUT_DIR, "brands.csv");
 const FAILED_PATH = path.join(OUTPUT_DIR, "failed.csv");
 const API_BASE_URL = "https://api.jshj.net/api/brands";

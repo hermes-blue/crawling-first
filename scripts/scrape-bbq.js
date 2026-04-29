@@ -115,7 +115,7 @@ async function fetchBrand(pageUrl) {
 
 async function main() {
   const result = await fetchBrand(PAGE_URL);
-  const outputDir = path.join(process.cwd(), "output");
+  const outputDir = path.join(process.cwd(), "output", "brand-details");
   const outputPath = path.join(outputDir, "bbq.csv");
 
   fs.mkdirSync(outputDir, { recursive: true });

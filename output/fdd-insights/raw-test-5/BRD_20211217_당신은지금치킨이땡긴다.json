@@ -1,0 +1,399 @@
+{
+  "rgsno": "8828700553",
+  "brand_nm": "당신은지금치킨이땡긴다",
+  "category": "치킨",
+  "extracted_raw": {
+    "autonomy": {
+      "hq_inspection": {
+        "method": null,
+        "frequency": null,
+        "source_quote": null
+      },
+      "operating_hours": {
+        "hours": "12:00 ~ 24:00 (권장)",
+        "mandated": false,
+        "source_quote": "당사는 가맹점의 영업시간 및 영업일수를 제한하지 않습니다. 다만 권장하는 내용은 다음과 같습니다. 12:00 ~ 24:00"
+      },
+      "menu_flexibility": {
+        "conditions": "승인 필요",
+        "can_add_menu": false,
+        "source_quote": "귀하가 당사가 지정한 상품 · 용역 이외의 품목을 판매하려는 경우에는 사전에 당사에 서면으로 통지하여 승인을 받아야 합니다."
+      },
+      "supplier_freedom": {
+        "source_quote": "초도물품 일체는 가맹사업 동일성 유지를 위해서 당사에서 구입하여야 합니다.",
+        "can_source_freely": false,
+        "mandatory_items_ratio": null
+      },
+      "pricing_authority": {
+        "type": "권장가격",
+        "detail": "권장가격 원칙, 변경 시 서면 통보 후 승인",
+        "source_quote": "귀하는 당사가 제시한 권장가격으로 상품을 판매하는 것을 원칙으로 합니다. ... 승인을 받아야 합니다."
+      },
+      "education_frequency": {
+        "source_quote": null,
+        "pre_opening_days": null,
+        "regular_frequency": null
+      },
+      "territory_protection": {
+        "criteria": "반경 600M",
+        "source_quote": "별도 표기가 없는 경우 점포로부터 반경 600M로 한다. 대규모 백화점...등에 상응하는 별도의 독립상권 및 유통집객시설의 경우 별도 기준의 영업지역이 부여된다.",
+        "distance_or_area": "600M",
+        "special_commercial_area": "별도 기준의 영업지역 부여"
+      },
+      "interior_modification": {
+        "allowed": true,
+        "conditions": "필수 구입 내역 외 승인 필요, 인테리어 매뉴얼 준수",
+        "source_quote": "인테리어, 간판 등은 가맹사업의 동일성과 독창성 유지를 위하여 반드시 당사가 정한 매뉴얼에 따라 시공하여야 합니다."
+      },
+      "online_channel_freedom": {
+        "delivery_app": null,
+        "source_quote": "귀하는 귀하의 비용으로 개별적으로 자기 지역 내에서 광고 및 판촉활동을 할 수 있으나, 이 경우 영업표지의 통일성을 유지하기 위하여 사전에 당사의 승인을 받아야 합니다.",
+        "sns_marketing": null
+      },
+      "owner_education_requirement": {
+        "source_quote": "다만, 귀하가 직접 받기 어려운 경우에는 본사의 사전 승인을 받아 가맹점을 함께 운영하는 사람으로 하여금 대신하게 할 수 있습니다.",
+        "proxy_allowed": true,
+        "proxy_conditions": "본사의 사전 승인을 받아 가맹점을 함께 운영하는 사람으로 하여금 대신하게 할 수 있습니다.",
+        "owner_must_attend": true
+      },
+      "education_non_attendance_penalty": {
+        "penalties": [
+          "계약 갱신 거절",
+          "물품공급 중단",
+          "가맹계약 해지"
+        ],
+        "source_quote": "개점 이후 당사가 정하는 필수교육을 이수하지 않을 경우 계약 기간 만료 후 갱신이 거절될 수 있고, 물품공급 중단 및 가맹계약 해지 사유가 될 수 있으니 필히 이수하시기 바랍니다."
+      }
+    },
+    "exit_risk": {
+      "contract_term": {
+        "source_quote": "『당신은지금치킨이땡긴다』 가맹사업의 최초 계약기간은 계약체결일로부터 만 [ 2 ]년입니다. 다만, 최초 계약기간 만료 후 계약을 연장하는 경우 재계약기간은 갱신일로부터 만 [ 2 ]년입니다. ... 귀하에게는 가맹계약의 갱신을 요구할 수 있는 권리가 최초 계약일로부터 10년간 주어집니다.",
+        "initial_years": 2,
+        "renewal_years": 2,
+        "guarantee_years": 10
+      },
+      "deposit_refund": {
+        "amount": null,
+        "conditions": null,
+        "refundable": true,
+        "source_quote": null
+      },
+      "legal_violations": {
+        "exists": false,
+        "details": null,
+        "source_quote": "당사와 당사의 임원은 정보공개일 현재 최근 3년 동안 가맹사업거래와 관련하여 「가맹사업법」 또는 「독점규제 및 공정거래에 관한 법률」 및 「약관 규제에 관한 법률」을 위반하여 공정거래위원회 또는 시정조치 등을 받은 사실이 없습니다."
+      },
+      "non_compete_clause": {
+        "scope": "가맹본부의 영업비밀 및 중요정보가 누설되거나 이용될 가능성이 있는 영업(타사 가맹점, 독립점포, 가맹본부 경영 등)",
+        "duration": "1년",
+        "source_quote": "또한, 본 계약이 종료한 날로부터 1년의 기간 동안 [별첨1]에서 규정된 지역에서 가맹본부의 영업비밀 및 중요정보가 누설되거나 이용될 가능성이 있는 영업(타사 가맹점, 독립점포, 가맹본부 경영 등)을 하여서는 아니됩니다.",
+        "post_termination": true
+      },
+      "termination_penalty": {
+        "exists": true,
+        "source_quote": "5. ‘을’이 본 계약기간 만료일 전 계약을 중도 해지하려는 경우, ‘을’은 ‘갑’에게 계약기간 미준수에 대한 위약금으로 금오백만원(\\5,000,000)을 지급하여야 하며",
+        "calculation_method": "위약벌 금삼천만원 또는 금오백만원 등 규정 참조"
+      },
+      "transfer_conditions": {
+        "source_quote": "양수도 계약을 체결한 양수인은 양도 등에 따라 당사에 초래된 개점 전 교육비, 계약이행보증금 등을 부담하여야 하며, 양도양수가맹비로 금일백육십오만원(\\1,650,000 / VAT포함)을 당사에 지급하여야 합니다.",
+        "transfer_fee": "양도양수가맹비 금일백육십오만원",
+        "requires_approval": true
+      },
+      "avg_operation_period": {
+        "year": 2024,
+        "avg_days": 864,
+        "store_count": 27,
+        "source_quote": "2024년 27개점 약 864일"
+      },
+      "franchise_fee_refund": {
+        "conditions": "가맹비 3,300 반환 안됨",
+        "refundable": false,
+        "source_quote": "가맹비 3,300 반환 안됨 가맹점 오픈을 위하여 소요되는 소멸성 비용"
+      },
+      "renovation_obligation": {
+        "exists": null,
+        "cost_bearer": null,
+        "cycle_years": null,
+        "source_quote": null
+      },
+      "interior_self_construction": {
+        "allowed": true,
+        "conditions": "감리대가 3.3㎡당 금삼십삼만원 지급",
+        "source_quote": "다만, 귀하가 자체 시공하는 경우 당사는 직원을 파견하여 이를 관리 및 감독할 수 있으며, 이 경우 감리대가로 3.3㎡당 금삼십삼만원(\\330,000/VAT포함)을 당사에 지급하여야 합니다."
+      },
+      "franchisee_termination_grounds": {
+        "grounds": [
+          "가맹본부의 합의해지",
+          "가맹본부의 물품공급 및 경영지원 중단",
+          "신의칙 미준수"
+        ],
+        "source_quote": "당사 또는 귀하가 가맹계약서에 기재된 다음 각 호의 사유가 있는 경우에는 본 계약을 해지할 수 있으며"
+      },
+      "franchisor_termination_grounds": {
+        "grounds": [
+          "가맹금 미지급",
+          "영업방침 미준수",
+          "계약 위반(시정 미이행)",
+          "파산 및 회생절차",
+          "영업 연속 7일 중단 등"
+        ],
+        "source_quote": "당사가 귀하와의 가맹계약을 해지할 수 있는 사유는 합의해지, 일반해지, 즉시해지 등 3가지로 그 사유 및 절차의 자세한 내용은 다음과 같습니다."
+      }
+    },
+    "hidden_cost": {
+      "royalty": {
+        "type": "정률",
+        "source_quote": "월 매출액의 3.3% (VAT 포함)",
+        "amount_or_rate": "월 매출액의 3.3% (VAT 포함)"
+      },
+      "fee_burden": {
+        "source_quote": null,
+        "card_fee_bearer": null,
+        "delivery_fee_bearer": null
+      },
+      "advertising_fee": {
+        "structure": null,
+        "source_quote": null,
+        "franchisee_share": null,
+        "estimated_monthly": null
+      },
+      "renovation_cost": {
+        "cost_bearer": null,
+        "cycle_years": null,
+        "source_quote": null,
+        "estimated_cost": null
+      },
+      "other_hidden_costs": {
+        "items": [
+          "지연이자 연 20%"
+        ],
+        "source_quote": "지연이자 가맹본부 연20% 지급기간 경과일의 다음날부터 지급하는 날까지"
+      },
+      "differential_margin": {
+        "disclosed": true,
+        "source_quote": "이 항목에 기재된 내용(중 일부)은 개인정보ㆍ영업비밀에 해당할 소지가 있어, 일반 국민에는 공개되지 않습니다.",
+        "rate_or_detail": "비공개"
+      },
+      "mandatory_purchases": {
+        "exists": true,
+        "item_count": null,
+        "source_quote": "초도물품 일체는 가맹사업 동일성 유지를 위해서 당사에서 구입하여야 합니다.",
+        "forced_or_recommended": "강제(초도물품 등)"
+      },
+      "related_party_profit": {
+        "detail": null,
+        "exists": false,
+        "source_quote": "당사의 특수관계인이 수취하는 경제적인 이익은 해당사항이 없습니다."
+      },
+      "system_maintenance_fee": {
+        "items": [],
+        "exists": null,
+        "source_quote": null
+      },
+      "post_opening_education_cost": {
+        "frequency": "추후 공지",
+        "cost_bearer": "당사 부담(예외 있음)",
+        "source_quote": "개점 후 교육 | 추후 공지 | 당사 부담(예외 있음) | 경우에 따라 실비 부담",
+        "cost_per_session": null
+      }
+    }
+  },
+  "exit_risk": {
+    "grade": "보통",
+    "factors": [
+      "최초 계약기간 2년, 갱신기간 2년으로 운영되며 갱신요구권은 10년까지 보장됨",
+      "계약 위반 시 1천만원~2천만원의 위약금 및 상표권 침해 시 1일 30만원의 위약벌 규정 존재",
+      "계약 종료 후 2년 동안 점포지가 속한 광역지방자치단체 내에서 동종 영업 금지"
+    ],
+    "sources": [
+      {
+        "field": "franchise_fee_refund",
+        "quote": "가맹비 3,300 반환 안됨 가맹점 오픈을 위하여 소요되는 소멸성 비용",
+        "section": "Ⅳ"
+      },
+      {
+        "field": "contract_term",
+        "quote": "『당신은지금치킨이땡긴다』 가맹사업의 최초 계약기간은 계약체결일로부터 만 [ 2 ]년입니다. 다만, 최초 계약기간 만료 후 계약을 연장하는 경우 재계약기간은 갱신일로부터 만 [ 2 ]년입니다. ... 귀하에게는 가맹계약의 갱신을 요구할 수 있는 권리가 최초 계약일로부터 10년간 주어집니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "termination_penalty",
+        "quote": "5. ‘을’이 본 계약기간 만료일 전 계약을 중도 해지하려는 경우, ‘을’은 ‘갑’에게 계약기간 미준수에 대한 위약금으로 금오백만원(\\5,000,000)을 지급하여야 하며",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "franchisor_termination_grounds",
+        "quote": "당사가 귀하와의 가맹계약을 해지할 수 있는 사유는 합의해지, 일반해지, 즉시해지 등 3가지로 그 사유 및 절차의 자세한 내용은 다음과 같습니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "franchisee_termination_grounds",
+        "quote": "당사 또는 귀하가 가맹계약서에 기재된 다음 각 호의 사유가 있는 경우에는 본 계약을 해지할 수 있으며",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "transfer_conditions",
+        "quote": "양수도 계약을 체결한 양수인은 양도 등에 따라 당사에 초래된 개점 전 교육비, 계약이행보증금 등을 부담하여야 하며, 양도양수가맹비로 금일백육십오만원(\\1,650,000 / VAT포함)을 당사에 지급하여야 합니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "interior_self_construction",
+        "quote": "다만, 귀하가 자체 시공하는 경우 당사는 직원을 파견하여 이를 관리 및 감독할 수 있으며, 이 경우 감리대가로 3.3㎡당 금삼십삼만원(\\330,000/VAT포함)을 당사에 지급하여야 합니다.",
+        "section": "Ⅳ"
+      },
+      {
+        "field": "non_compete_clause",
+        "quote": "또한, 본 계약이 종료한 날로부터 1년의 기간 동안 [별첨1]에서 규정된 지역에서 가맹본부의 영업비밀 및 중요정보가 누설되거나 이용될 가능성이 있는 영업(타사 가맹점, 독립점포, 가맹본부 경영 등)을 하여서는 아니됩니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "avg_operation_period",
+        "quote": "2024년 27개점 약 864일",
+        "section": "Ⅱ"
+      },
+      {
+        "field": "legal_violations",
+        "quote": "당사와 당사의 임원은 정보공개일 현재 최근 3년 동안 가맹사업거래와 관련하여 「가맹사업법」 또는 「독점규제 및 공정거래에 관한 법률」 및 「약관 규제에 관한 법률」을 위반하여 공정거래위원회 또는 시정조치 등을 받은 사실이 없습니다.",
+        "section": "Ⅲ"
+      }
+    ],
+    "summary": "최초 계약기간은 2년이며 갱신을 통해 최대 10년까지 보장받을 수 있습니다. 계약 해지 시 위약금 조항이 명시되어 있으며, 계약 종료 후 2년 동안 동일 광역지방자치단체 내에서 동종 영업이 제한됩니다."
+  },
+  "hidden_cost": {
+    "grade": "보통",
+    "items": [
+      {
+        "name": "로열티",
+        "detail": "매월 550천원"
+      },
+      {
+        "name": "차액가맹금",
+        "detail": "가맹점당 평균 7,287천원"
+      },
+      {
+        "name": "시스템 사용료",
+        "detail": "POS 및 키오스크 사용료는 비공개로 개별 협의"
+      },
+      {
+        "name": "지연이자",
+        "detail": "지급기간 경과 시 연 20% 적용"
+      }
+    ],
+    "sources": [
+      {
+        "field": "royalty",
+        "quote": "월 매출액의 3.3% (VAT 포함)",
+        "section": "Ⅳ"
+      },
+      {
+        "field": "differential_margin",
+        "quote": "이 항목에 기재된 내용(중 일부)은 개인정보ㆍ영업비밀에 해당할 소지가 있어, 일반 국민에는 공개되지 않습니다.",
+        "section": "Ⅳ"
+      },
+      {
+        "field": "mandatory_purchases",
+        "quote": "초도물품 일체는 가맹사업 동일성 유지를 위해서 당사에서 구입하여야 합니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "related_party_profit",
+        "quote": "당사의 특수관계인이 수취하는 경제적인 이익은 해당사항이 없습니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "post_opening_education_cost",
+        "quote": "개점 후 교육 | 추후 공지 | 당사 부담(예외 있음) | 경우에 따라 실비 부담",
+        "section": "Ⅷ"
+      },
+      {
+        "field": "other_hidden_costs",
+        "quote": "지연이자 가맹본부 연20% 지급기간 경과일의 다음날부터 지급하는 날까지",
+        "section": "Ⅳ"
+      }
+    ],
+    "summary": "매월 550천원의 로열티가 발생하며, 가맹점당 평균 차액가맹금 지급액은 7,287천원입니다. POS 및 키오스크 시스템 사용료는 별도 협의가 필요합니다."
+  },
+  "autonomy": {
+    "grade": "보통",
+    "factors": [
+      "본사가 지정한 상품 및 용역만 판매 가능하며 메뉴 추가는 제한됨",
+      "개점 전 14일간의 필수 교육이 진행되며 미이수 시 계약 갱신 거절 및 해지 사유가 될 수 있음",
+      "영업시간은 자율적으로 운영 가능하며 본사가 정기적으로 방문 또는 유·무선 관리 감독 실시"
+    ],
+    "sources": [
+      {
+        "field": "owner_education_requirement",
+        "quote": "다만, 귀하가 직접 받기 어려운 경우에는 본사의 사전 승인을 받아 가맹점을 함께 운영하는 사람으로 하여금 대신하게 할 수 있습니다.",
+        "section": "Ⅷ"
+      },
+      {
+        "field": "education_non_attendance_penalty",
+        "quote": "개점 이후 당사가 정하는 필수교육을 이수하지 않을 경우 계약 기간 만료 후 갱신이 거절될 수 있고, 물품공급 중단 및 가맹계약 해지 사유가 될 수 있으니 필히 이수하시기 바랍니다.",
+        "section": "Ⅷ"
+      },
+      {
+        "field": "menu_flexibility",
+        "quote": "귀하가 당사가 지정한 상품 · 용역 이외의 품목을 판매하려는 경우에는 사전에 당사에 서면으로 통지하여 승인을 받아야 합니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "pricing_authority",
+        "quote": "귀하는 당사가 제시한 권장가격으로 상품을 판매하는 것을 원칙으로 합니다. ... 승인을 받아야 합니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "operating_hours",
+        "quote": "당사는 가맹점의 영업시간 및 영업일수를 제한하지 않습니다. 다만 권장하는 내용은 다음과 같습니다. 12:00 ~ 24:00",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "supplier_freedom",
+        "quote": "초도물품 일체는 가맹사업 동일성 유지를 위해서 당사에서 구입하여야 합니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "interior_modification",
+        "quote": "인테리어, 간판 등은 가맹사업의 동일성과 독창성 유지를 위하여 반드시 당사가 정한 매뉴얼에 따라 시공하여야 합니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "online_channel_freedom",
+        "quote": "귀하는 귀하의 비용으로 개별적으로 자기 지역 내에서 광고 및 판촉활동을 할 수 있으나, 이 경우 영업표지의 통일성을 유지하기 위하여 사전에 당사의 승인을 받아야 합니다.",
+        "section": "Ⅴ"
+      },
+      {
+        "field": "territory_protection",
+        "quote": "별도 표기가 없는 경우 점포로부터 반경 600M로 한다. 대규모 백화점...등에 상응하는 별도의 독립상권 및 유통집객시설의 경우 별도 기준의 영업지역이 부여된다.",
+        "section": "Ⅳ"
+      }
+    ],
+    "summary": "본사가 지정한 상품과 용역만을 판매해야 하며, 정기적인 관리 감독이 이루어집니다. 영업시간은 자율적으로 운영할 수 있으나 필수 교육 이수 등 본사의 운영 방침을 준수해야 합니다."
+  },
+  "overall_summary": "계약 전 로열티와 차액가맹금 등 고정 비용 구조를 명확히 파악하고, 위약금 및 경업금지 조항이 향후 운영 계획에 미칠 영향을 상담 시 확인해 보시기 바랍니다.",
+  "good_for": [
+    "본사의 운영 매뉴얼과 시스템을 준수하며 안정적인 운영을 선호하는 창업자",
+    "분식 업종의 표준화된 시스템을 활용하고자 하는 예비 창업자"
+  ],
+  "not_good_for": [
+    "메뉴 구성이나 판매 품목에 대해 높은 자율성을 원하는 창업자",
+    "경업금지 조항이나 위약금 규정에 대해 보수적인 입장을 가진 창업자"
+  ],
+  "doc_date": "2025.05.07",
+  "check_points": [
+    {
+      "field": "시스템 사용료",
+      "action": "가맹 상담 시 구체적인 월 사용료를 확인하여 고정비 시뮬레이션을 해보시면 좋습니다.",
+      "finding": "POS 및 키오스크 시스템 사용료가 비공개로 되어 있으며 개별 협의 항목입니다."
+    },
+    {
+      "field": "위약금 산정",
+      "action": "예상되는 위약금의 최대 범위를 상담 시 여쭤보시면 리스크를 미리 가늠하는 데 도움이 됩니다.",
+      "finding": "위약금 산정 방식에 상한선이 명시되어 있지 않습니다."
+    },
+    {
+      "field": "경업금지 기간",
+      "action": "향후 사업 계획에 영향을 줄 수 있으니, 상담 시 적용 범위와 조건을 함께 확인해 보시면 좋겠습니다.",
+      "finding": "경업금지 기간이 2년으로 설정되어 있습니다."
+    }
+  ]
+}

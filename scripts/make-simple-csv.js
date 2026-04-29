@@ -1,8 +1,8 @@
 const fs = require("node:fs");
 const path = require("node:path");
 
-const INPUT_PATH = path.join(process.cwd(), "output", "brands.csv");
-const OUTPUT_PATH = path.join(process.cwd(), "output", "brands_simple.csv");
+const INPUT_PATH = path.join(process.cwd(), "output", "brand-details", "brands.csv");
+const OUTPUT_PATH = path.join(process.cwd(), "output", "brand-details", "brands_simple.csv");
 
 const SIMPLE_HEADERS = [
   "brand_name",
